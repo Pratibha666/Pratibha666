@@ -27,5 +27,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratibha666&icon=2&color=0)](https://visitcount.itsvg.in)
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Pratibha666)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
